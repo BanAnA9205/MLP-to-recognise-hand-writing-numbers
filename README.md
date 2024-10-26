@@ -13,7 +13,7 @@ I stumbled upon the problem of training a machine to recognise hand-written numb
 
 Obviously I couldn't solve it since I had no knowledge on what these things were (just documents on basic data structures alone were considered rare back then in my hometown).
 
-I couldn't help but feel fascinating about how an algorithm can create the so-called "computer vision", but at the same time frustrated because there was nothing I can do.
+I couldn't help but feel fascinating about how an algorithm can create the so-called "computer vision", but at the same time frustrated because there was nothing I could do.
 
 Five years later, I'm studying CS and do have enough knowledge to finally make one myself now, so this can be seen as a tribute to my past self.
 
