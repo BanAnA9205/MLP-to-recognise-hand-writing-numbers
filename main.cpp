@@ -304,7 +304,7 @@ int predict(vector<vector<double>> &Win, vector<vector<vector<double>>> &W, vect
 // ============================== MAIN =============================== //
 // =================================================================== //
 int main(int argc, char const *argv[]){
-    // Input "new_train" to reinitialize the training data or "reuse_train" 
+    // Input "new_train" to reinitialize the training data or "old_train" 
     // to use the existing training data. 
     // By default, the training data is reused whenever possible.
     // If "new_train" is input, the training size and width can also be specified.
