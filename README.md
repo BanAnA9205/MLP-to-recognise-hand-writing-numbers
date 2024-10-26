@@ -1,7 +1,7 @@
 I send my sincere gratitude to Dariel Dato-on for having provided me the dataset to train my model.
 Dataset can be found at: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
-I have included a model.txt file, which contains a model that scores barel above 90% in the testing phase. 
+I have included a model.txt file, which contains a model that scores barely above 90% in the testing phase. 
 
 To load it, simply type "main old_train" and then "model.txt". Everything else has been automated.
 
